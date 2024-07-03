@@ -1,4 +1,4 @@
-<img src="/headshot.jpg" alt="headshot image" style="height: 100px"/>
+<img src="/headshot.jpg" alt="headshot image" style="height: 300px"/>
 
 Welcome to my blog! 
 
