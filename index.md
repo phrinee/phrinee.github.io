@@ -1,5 +1,4 @@
-
-![headshot img](/headshot.jpg "Nice 2 meet U")
+<img src="/headshot.jpg" alt="headshot image" style="height: 100px"/>
 
 Welcome to my blog! 
 
