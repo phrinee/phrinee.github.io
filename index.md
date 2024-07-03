@@ -1,7 +1,7 @@
-PhD Candidate in Computational Psychiatry @ KAIST GSMSE
+Welcome to my blog! I am a second-year Integrated MS-PhD student in Computational Psychiatry at the Graduate School of Medical Science and Engineering (GSMSE) at Korea Advanced Institute of Science and Technology (KAIST), under the mentorship of Professor BumSeok Jeong.
 
-I am a 2nd year Integrated MS-PhD program student majoring in Computational Psychiatry in the Graduate School of Medical Science and Engineering(GSMSE) at Korea Advanced Institute of Science and Technology(KAIST) supervised by BumSeok Jeong.
+My research delves into the intricate differences in human behavior and decision-making processes influenced by psychiatric disorders. I employ a diverse array of computational cognitive modeling techniques, such as Bayesian analysis, reinforcement learning, prospect theory, and diffusion models, to explore these phenomena.
 
-In my research, I study differences in human behaviour and decision-making caused by psychiatric disorders. To do so, I use a variety of computational cognitive modelling techniques including Bayesian analysis, reinforcement learning, prospect theory and diffusion models.
+Before embarking on this academic journey, I earned a Bachelor of Science degree in Bio and Brain Engineering (BBE), with a double major in the School of Computing (SoC), also from KAIST. 
 
-Prior to my current journey, I graduated with a Bachelor of Science in Bio and Brain Engineering / Double major(School of Computing) from KAIST.
+Join me as I share insights from my research, discuss advancements in computational psychiatry, and explore the fascinating intersection of technology and mental health.
