@@ -1,5 +1,5 @@
 
-![headshot img](/path/to/image.png "Nice 2 meet U")
+![headshot img](/headshot.jpg "Nice 2 meet U")
 
 Welcome to my blog! 
 
