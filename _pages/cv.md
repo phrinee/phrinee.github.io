@@ -41,6 +41,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Workshops & Training
+======
+* **Computational Psychiatry Course (CPC) Zurich 2024**, Translational Neuromodeling Unit, University of Zurich & ETH Zurich (online), Sep 2024
+* **Computational Neuroscience Winter School**, KAIST, Daejeon, Jan – Feb 2024
+* **Computational Neuroscience Winter School** (online), Feb 2022
+
+Service
+======
+* **Volunteer**, OHBM 2024 Annual Meeting (Organization for Human Brain Mapping), Seoul, Jun 2024
+
 Skills
 ======
 * **Programming:** Python (professional), R (advanced), MATLAB (advanced), Linux (advanced), C++ (intermediate)
