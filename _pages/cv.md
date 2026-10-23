@@ -34,7 +34,7 @@ Research Experience
 * **Graduate Researcher**, [Laboratory for Computational Affective Neuroscience and Development (CNDL)](https://drshrink.github.io/), KAIST GSMSE (Advisor: Prof. BumSeok Jeong), Sep 2023 – Present
   * Computational modeling of human behavior and decision-making
 * **Undergraduate Research Intern**, Laboratory for Computational Affective Neuroscience and Development (CNDL), KAIST GSMSE (Advisor: Prof. BumSeok Jeong), Sep 2022 – Aug 2023
-  * Collected EEG data for human neuroscience experiments
+  * Assisted with EEG data collection for a multimodal study of mood changes across the menstrual cycle in women with premenstrual syndrome (PMS)
 * **Individual Research**, KAIST, Jan 2021 – Feb 2021
   * Emotionotopy and social recognition in the brain
   * Analyzed social affective neuroscience data and compared the similarity of distributions of social interactions in MRI recordings
