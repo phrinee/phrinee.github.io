@@ -11,54 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Integrated M.S.–Ph.D. in Medical Science and Engineering**, KAIST, Sep 2023 – Present
+  * Graduate School of Medical Science and Engineering (GSMSE), Computational Psychiatry
+  * Advisor: Prof. BumSeok Jeong
+* **B.S. in Bio and Brain Engineering**, Double major in School of Computing, KAIST, Feb 2017 – Aug 2023
+  * Relevant coursework: Probability and Statistics, Biomedical Statistics & Statistical Learning, Linear Algebra, Bio-Signal Processing, Machine Learning, Advanced Intelligence, Human-AI Interaction, Data Structures, Introduction to Algorithms, Human-Computer Interaction
+* **High School Diploma**, Korea Science Academy of KAIST, Busan, Mar 2014 – Feb 2017
+  * Specialization: Molecular and Cellular Biology (cancer research)
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Computational psychiatry
+* Decision-making differences associated with psychiatric disorders
+* Computational cognitive modeling: Bayesian analysis, reinforcement learning, prospect theory, diffusion models
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Graduate Researcher**, KAIST GSMSE (Advisor: Prof. BumSeok Jeong), Sep 2023 – Present
+  * Computational modeling of human behavior and decision-making
+* **Individual Research**, KAIST, Jan 2021 – Feb 2021
+  * Emotionotopy and social recognition in the brain
+  * Analyzed social affective neuroscience data and compared the similarity of distributions of social interactions in MRI recordings
+  * Assisted in collecting research data with bioinformatic tools and converted them into analysis-ready formats
+* **Research Associate**, Korea Science Academy of KAIST, Mar 2015 – Dec 2016
+  * Studied the viability of human breast cancer cells under different dichloroacetate (DCA) treatment conditions
+  * Cell culture of breast cancer cells and fluorescence microscopy
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* **Poster**, *Hallmarks of Cancer: Cell Symposium*, Ghent, Belgium, Dec 2016
+  * "Modulation of multicellular tumor spheroid growth and cell death by DCA in MCF-7 and MDA-MB-231 breast cancer cells"
+
+Other Activities
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* **Student Fellow**, KSA–CSIA High School Exchange Program, Cambourne, United Kingdom, Jun 2016 – Jul 2016
+* **Student Fellow**, Moscow Chemistry Lyceum Exchange Program, Moscow, Russia, Jun 2015 – Jul 2015
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* **Programming:** Python (professional), R (advanced), MATLAB (advanced), Linux (advanced), C++ (intermediate)
+* **Languages:** Korean (native), English (fluent)
