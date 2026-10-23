@@ -50,6 +50,10 @@ Workshops & Training
 Service
 ======
 * **Volunteer**, OHBM 2024 Annual Meeting (Organization for Human Brain Mapping), Seoul, Jun 2024
+* **Peer Counselor**, HUG Peer Counseling Program, KAIST Graduate Student Association Human Rights Center, 2022
+  * Completed a 5-week peer counseling training program and provided peer counseling to KAIST students
+* **Mind Supporter** (1st cohort), KAIST Stress Clinic, Jul – Dec 2021
+  * Supported student mental health awareness campaigns, including social media events and content creation
 
 Skills
 ======
