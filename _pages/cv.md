@@ -14,6 +14,7 @@ Education
 * **Integrated M.S.–Ph.D. in Medical Science and Engineering**, KAIST, Sep 2023 – Present
   * Graduate School of Medical Science and Engineering (GSMSE), Computational Psychiatry
   * Advisor: Prof. BumSeok Jeong
+  * Relevant coursework: Computational Neuroscience, Computational Neuroimaging, Clinical Functional Neuroimaging, Mathematical and Statistical Modeling for Brain and Cognitive Sciences, Neuroscience-inspired AI, How AI and the Brain Work, Introduction to Artificial Intelligence with Mathematics
 * **B.S. in Bio and Brain Engineering**, Double major in School of Computing, KAIST, Feb 2017 – Aug 2023
   * Relevant coursework: Probability and Statistics, Biomedical Statistics & Statistical Learning, Linear Algebra, Bio-Signal Processing, Machine Learning, Advanced Intelligence, Human-AI Interaction, Data Structures, Introduction to Algorithms, Human-Computer Interaction
 * **High School Diploma**, Korea Science Academy of KAIST, Busan, Mar 2014 – Feb 2017
